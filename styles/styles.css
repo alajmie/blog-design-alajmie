@@ -8,7 +8,7 @@ Test your font using the Google tools -- you can play with the size, weight, etc
 /* don't use Open Sans for your homework. Choose your own font pairings */
 /* PUT YOUR STYLES BELOW */
 
-h2 span {
+h1 span {
     font-size: 2em;
     background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/spectrum.svg);
     background-repeat: repeat-x;
@@ -38,7 +38,7 @@ p, ul, li {
     position: relative;
 
   }
-  .tag label{
+  .tag a{
     padding: 7px 16px 6px 12px;
     position: relative;
     z-index: 200;
