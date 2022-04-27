@@ -115,6 +115,7 @@ p.small-pt {
     font-size: 18pt;
 }
 
-b.margin-sm {
-    margin: 50px 50px;
+p b.margin-sm {
+    display: block;
+    margin-bottom: 25px;
 }
