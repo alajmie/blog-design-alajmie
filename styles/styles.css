@@ -111,10 +111,10 @@ a {
     margin-right: 115pt;
 }
 
-.small-pt {
+p.small-pt {
     font-size: 18pt;
 }
 
-.margin-sm {
+b.margin-sm {
     margin: 50px 50px;
 }
